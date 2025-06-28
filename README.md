@@ -19,7 +19,7 @@ AltGr Shift:
 ![US-SE AltGr Shift](Windows/US-SE/Previews/US-SE%20AltGr%20Shift.png)
 
 ## SE-US variant
-This variant is the same, but with four of the keys around the Enter key inverted.
+This variant has four of the keys around the Enter key inverted.
 
 Base:  
 ![SE-US Base](Windows/SE-US/Previews/SE-US%20Base.png)
