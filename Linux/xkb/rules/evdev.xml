@@ -5,6 +5,7 @@
 		<layout>
 			<configItem>
 				<name>us</name>
+				<!-- Keyboard indicator for English layouts -->
 			</configItem>
 			<variantList>
 				<variant>
@@ -19,6 +20,7 @@
 		<layout>
 			<configItem>
 				<name>se</name>
+				<!-- Keyboard indicator for Swedish layouts -->
 			</configItem>
 			<variantList>
 				<variant>
